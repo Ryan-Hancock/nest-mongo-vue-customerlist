@@ -1,5 +1,7 @@
 # nest-mongo-vue-customerlist
 
+Customer list with (create/edit/delete) styled with Bootstrap
+
 To run frontend run 
 ```
 yarn serve
